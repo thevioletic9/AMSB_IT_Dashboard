@@ -242,7 +242,7 @@ function validateForm() {
                                 <option value="<?php { echo $_POST['sort']; } ?>" > <?php  echo $_POST['sort'] ;?>  </option>
 <?php                     }?>
                         <option value="WorkNo">WorkNo</option>
-                        <option value="InCharge">In Charge A</option>
+                        <option value="InCharge">In Charge </option>
                         <option value="Status">Status</option>
                         <option value="AddDate">Add Date</option>
                         <option value="EditDate">Edited At</option>
